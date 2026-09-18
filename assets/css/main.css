@@ -3249,3 +3249,30 @@ input, select, textarea {
     height: 1000px;
     border: none;
 }
+
+.certificates {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+}
+
+.certificate {
+    width: 200px;
+    text-decoration: none;
+}
+
+.certificate img {
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.certificate h3 {
+    font-size: 0.9em;
+    margin-top: 0.75em;
+}
+
+.certifications-button {
+    margin-top: 1.5em;
+}
