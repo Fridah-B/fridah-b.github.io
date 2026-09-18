@@ -152,12 +152,13 @@ input, select, textarea {
 	}
 	#header h1 .subtitle {
 		display: block;
-		font-size: 0.7em;
+		font-size: 0.8em;
 		color: #ffffff;
 	}
 
 	#header h1 .skills {
 		display: block;
+		font-size: 0.8em;
 	}
 
 	#header h1 .welcome {
@@ -3233,3 +3234,4 @@ input, select, textarea {
 			}
 
 	}
+	
