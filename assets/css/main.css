@@ -3276,3 +3276,8 @@ input, select, textarea {
 .certifications-button {
     margin-top: 1.5em;
 }
+
+.work-item > a img {
+    width: 100%;
+    display: block;
+}
